@@ -32,7 +32,8 @@ This project provides an automated accident detection and reporting system that 
 - Web Interface: Provides a user-friendly webpage to display accident information and alerts.
 - Data Storage and Analysis: Stores accident data for future research and studies to improve road safety.
 
-### Web Dashboard: https://samuidhayani.github.io/Accident-Detection-and-Reporting-System/
+### Web Dashboard: 
+### https://samuidhayani.github.io/Accident-Detection-and-Reporting-System/
 
 
 ### Demo: https://youtu.be/6Y4hNEKxVqQ
