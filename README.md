@@ -33,7 +33,8 @@ This project provides an automated accident detection and reporting system that 
 - Data Storage and Analysis: Stores accident data for future research and studies to improve road safety.
 
 ### Web Dashboard: 
-### https://samuidhayani.github.io/Accident-Detection-and-Reporting-System/
+        https://samuidhayani.github.io/Accident-Detection-and-Reporting-System/
 
 
-### Demo: https://youtu.be/6Y4hNEKxVqQ
+### Demo: 
+        https://youtu.be/6Y4hNEKxVqQ
