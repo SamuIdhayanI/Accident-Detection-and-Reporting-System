@@ -1,7 +1,8 @@
 # Accident Detection and Reporting System
 
 This project is a deep learning model that detects road accidents using CCTV camera footage. The model, built on the YOLO architecture, identifies accidents and assesses their severity. Once an accident is detected, the information is displayed on a webpage, and immediate alerts are sent to nearby hospitals, police stations, fire stations, and municipalities. The stored data can also be used for future research and studies.
-<img width="400" alt="Screenshot 2024-07-25 at 12 43 54 PM" src="https://github.com/user-attachments/assets/0686de3b-6aac-419e-bb00-e329c0860bd4">                      <img width="400" alt="Screenshot 2024-07-25 at 12 42 50 PM" src="https://github.com/user-attachments/assets/c5c59b18-fd35-4744-b203-adb3d7e4a468">                  <img width="400" alt="Screenshot 2024-07-25 at 12 43 09 PM" src="https://github.com/user-attachments/assets/ff0b1f28-33b2-4baf-9157-cc5614108f02">                     <img width="400" alt="Screenshot 2024-07-25 at 12 45 09 PM" src="https://github.com/user-attachments/assets/23d69d0e-d393-4929-8ef0-414c27545c55">
+
+<img width="200" alt="Screenshot 2024-07-25 at 12 43 54 PM" src="https://github.com/user-attachments/assets/0686de3b-6aac-419e-bb00-e329c0860bd4">                      <img width="200" alt="Screenshot 2024-07-25 at 12 42 50 PM" src="https://github.com/user-attachments/assets/c5c59b18-fd35-4744-b203-adb3d7e4a468">                  <img width="200" alt="Screenshot 2024-07-25 at 12 43 09 PM" src="https://github.com/user-attachments/assets/ff0b1f28-33b2-4baf-9157-cc5614108f02">                     <img width="200" alt="Screenshot 2024-07-25 at 12 45 09 PM" src="https://github.com/user-attachments/assets/23d69d0e-d393-4929-8ef0-414c27545c55">
 
 
 
